@@ -1,14 +1,27 @@
 import React from 'react';
-import resume from './images/ResumePlaceholder.PNG';
+import resume from './images/resumecapture.PNG';
 
 export default function Home() {
   return (
-    <div>
+    <div style={{textAlign: 'center'
+    }}>
       <h1>Resume</h1>
-      <p>
-       I have not worked with my career manager to cerate a new resume therefore I dont have one yet I'm going to use this as a placeholder for the time being. Thank you for understanding. Once I have made one it be put in this ones place. i would also make a clickable link to view the Resume. 
-      </p>
-      <img src={resume} height="200px" />
+      <a href="https://docs.google.com/document/d/152qZMr7nfczRbUZr0HSYSUcbS7RHoTeqYJ8s33dyqmE/edit?usp=sharing">
+      <img src={resume} height="500px" 
+      style={{float:'right',
+      paddingRight: '450px',
+      paddingTop: '10px'}}/>
+      </a>
+
+      <div style={{
+        paddingTop: '40px',
+        paddingLeft: '160px',
+        textAlign: 'left'}}>  
+
+      <h4>
+       This is my resume if you click on the photo it will direct you to the document.
+      </h4>
+      </div>
     </div>
   );
 }
