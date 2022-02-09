@@ -1,4 +1,4 @@
-  # react portfolio
+  # React Portfolio
   ## table of contents
   * [description](#description)
   * [usage](#usage)
