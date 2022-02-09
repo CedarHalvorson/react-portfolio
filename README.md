@@ -1,27 +1,20 @@
-# react portfolio
-  [![License: MIT](https://img.shields.io/badge/License-MIT-brightgreen.svg)](https://opensource.org/licenses/MIT)
+  # react portfolio
   ## table of contents
   * [description](#description)
-  * [installation](#installation)
   * [usage](#usage)
-  * [license](#license)
   * [contribute](#contribute)
-  * [tests](#tests)
   * [questions?](#questions)
   ## description
-  this is my react portfolio it has examples of my past work multipul pages and and meets criteria of this assignment.   
-  ## installation
-  copy gitub repo or view deployed site  
+  Welcome, to Cedar Halvorsons Portfolio! This was created using react and is a way to showcase my career materials. Here you will find materials such as my resume, an     about me section, past work and my contact information.  
   ## usage
-  view deployed site and enjoy.  
-  ## license
-  please click link to find out more info about MIT  
-  [MIT](https://opensource.org/licenses/MIT)  
-  ## contribute  
-  hire me so i can add more to my portfolio!  
-  ## tests
-  view deployed site  
-  ## questions
+  to view this webpage check the github-pages link on the page it looks like this.
+  
+  If you are unable to find it you can press a ctrl + f on windows or command + f on macOS and type in github-pages that should direct you to the clickable link 
  
+  ## contribute  
+  Hire me so I can add more to my portfolio!  
+  ## questions
+  If you have any questions, feel free to contact me at my email or linked in here.
+  [linked in](https://www.linkedin.com/in/cedar-halvorson-10791020a/)
   [github profile](https://github.com/)    
   cedarhalvorson@gmail.com
