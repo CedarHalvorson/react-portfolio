@@ -5,10 +5,11 @@
   * [Contribute](#Contribute)
   * [Questions?](#Questions)
   ## Description
-  Welcome, to Cedar Halvorsons Portfolio! This was created using react and is a way to showcase my career materials. Here you will find materials such as my resume, an     about me section, past work and my contact information.  
+  Welcome, to Cedar Halvorsons Portfolio! This was created using React and is a way to showcase my career materials. Here you will find materials such as my resume, an     about me section, past work and my contact information. 
+  ![](Capture.JPG) 
   ## Usage
   to view this webpage check the github-pages link on the page it looks like this.
-  
+  ![](githubpagescapture.PNG)
   If you are unable to find it you can press a ctrl + f on windows or command + f on macOS and type in github-pages that should direct you to the clickable link 
  
   ## Contribute  
